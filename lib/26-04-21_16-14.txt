@@ -1,0 +1,4 @@
+ a palavra blue
+em en
+ é traduzida para o idioma pt da seguinte forma
+azul

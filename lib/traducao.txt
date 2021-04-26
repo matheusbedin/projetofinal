@@ -1,0 +1,13 @@
+
+o texto vermelho
+no idioma pt
+fica traduzido assim en
+Red
+ a palavra teste
+em pt
+ é traduzida pra enda seguinte forma
+test
+ a palavra estrada
+em pt
+ é traduzida para o idioma en da seguinte forma
+road
